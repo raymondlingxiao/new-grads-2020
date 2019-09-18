@@ -12,17 +12,17 @@ A collection of new grad roles for 2020.
 ## Open Applications
 | Company | Position | Location | Link |
 | --- | --- | --- | --- |
-| Affirm | Software Engineer - New Grad 2020 | San Francisco, CA | https://jobs.lever.co/affirm/df87945c-182f-49d6-b323-691ce5c73a53 |
-| Airbnb | Software Engineer, New Grad 2020 | Portland, OR, San Francisco, CA, Seattle WA | https://careers.airbnb.com/positions/1820862/ |
-| Akuna Capital | Junior Developer | Chicago, IL | https://akunacapital.com/job-details?gh_jid=1755321 |
-| Amazon | Software Development Engineer | Seattle, WA; Austin, TX; Bay Area, CA; Bellevue, WA; Boston, MA; Denver, CO; Detroit, MI; Herndon, VA; Irvine, CA; New York, NY; Madison, WI; Minneapolis, MN; Phoenix, AZ; Portland, OR; San Diego, CA. | https://www.amazon.jobs/en/jobs/908703/software-development-engineer-2020-united-states |
-| American Express | Software Engineer | Phoenix, AZ, USA; Ft. Lauderdale, FL, USA; New York, NY, USA | https://jobs.americanexpress.com/jobs/19013265?lang=en-us&previousLocale=en-US |
-| Applied Intuition | Software Engineer | Sunnyvale, CA | https://hire.withgoogle.com/public/jobs/appliedintuitioncom/view/P_AAAAAADAAAONASDXZTBdvp |
-| Atlassian | Software Developer- 2020 Graduate | Mountain View, CA, USA | https://www.atlassian.com/company/careers/detail/5f0772a8-6df5-40f0-8f1a-044effca6699 |
+- [x] Affirm | Software Engineer - New Grad 2020 | San Francisco, CA | https://jobs.lever.co/affirm/df87945c-182f-49d6-b323-691ce5c73a53 |
+- [x] Airbnb | Software Engineer, New Grad 2020 | Portland, OR, San Francisco, CA, Seattle WA | https://careers.airbnb.com/positions/1820862/ |
+| 暂时没有 - Akuna Capital | Junior Developer | Chicago, IL | https://akunacapital.com/job-details?gh_jid=1755321 |
+- [x] Amazon | Software Development Engineer | Seattle, WA; Austin, TX; Bay Area, CA; Bellevue, WA; Boston, MA; Denver, CO; Detroit, MI; Herndon, VA; Irvine, CA; New York, NY; Madison, WI; Minneapolis, MN; Phoenix, AZ; Portland, OR; San Diego, CA. | https://www.amazon.jobs/en/jobs/908703/software-development-engineer-2020-united-states |
+- [x] American Express | Software Engineer | Phoenix, AZ, USA; Ft. Lauderdale, FL, USA; New York, NY, USA | https://jobs.americanexpress.com/jobs/19013265?lang=en-us&previousLocale=en-US |
+- [x] Applied Intuition | Software Engineer | Sunnyvale, CA | https://hire.withgoogle.com/public/jobs/appliedintuitioncom/view/P_AAAAAADAAAONASDXZTBdvp |
+- [x] Atlassian | Software Developer- 2020 Graduate | Mountain View, CA, USA | https://www.atlassian.com/company/careers/detail/5f0772a8-6df5-40f0-8f1a-044effca6699 |
 | BlackRock | Software Engineer | New York, NY | https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/user-829423/xf-40177a92b6b2/candidate/so/pm/1/pl/1/opp/3592-Analyst-Program-Americas/en-GB |
-| Bloomberg | Software Engineer | New York, NY | https://careers.bloomberg.com/job/detail/76851 |
-| Bolt | Software Engineer | Toronto, Ontario, Canada; San Francisco, CA, USA | https://www.bolt.com/jobs/software-engineer-new-grad-toronto/b73a1a03-0547-4753-97b4-192affe9a1de/ https://www.bolt.com/jobs/software-engineer-new-grad-sf/397d3220-611b-4f08-ba87-0a03b0d610d6/ |
-| C3.ai | Software Engineer | Redwood City, CA |  https://boards.greenhouse.io/c3iot/jobs/4416889002 |
+| 没了 - Bloomberg | Software Engineer | New York, NY | https://careers.bloomberg.com/job/detail/76851 |
+| 等待内推中 - Bolt | Software Engineer | Toronto, Ontario, Canada; San Francisco, CA, USA | https://www.bolt.com/jobs/software-engineer-new-grad-toronto/b73a1a03-0547-4753-97b4-192affe9a1de/ https://www.bolt.com/jobs/software-engineer-new-grad-sf/397d3220-611b-4f08-ba87-0a03b0d610d6/ |
+- [x] C3.ai | Software Engineer | Redwood City, CA |  https://boards.greenhouse.io/c3iot/jobs/4416889002 |
 | Capital One | Software Engineer | McLean, Virginia; Boston, Massachusetts; New York, New York; San Francisco, California; Chicago, Illinois; Wilmington, Delaware; Richmond, Virginia; Plano, Texas | https://campus.capitalone.com/job/mclean/technology-development-program-associate-2020/1786/12562815 |
 | Cisco | Software Engineer | RTP, NC - San Francisco, CA - Richardson, TX - Austin, TX - Cambridge, MA - Richfield, OH - Knoxville, TN - Lawrenceville, GA | https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Full-Time-United-States/1265288?source=Cisco+Jobs+Career+Site&tags=CDC+SnNG+engineering-university-program |
 | Cockroach Labs | Software Engineer (Backend); Software Engineer (Frontend) | New York, NY; San Francisco, CA | https://www.cockroachlabs.com/careers/job/?gh_jid=1747769, https://www.cockroachlabs.com/careers/job/?gh_jid=1831902 |
@@ -44,7 +44,7 @@ A collection of new grad roles for 2020.
 | Gusto | Software Engineer | San Francisco, CA, USA; Denver, CO, USA | https://boards.greenhouse.io/gusto/jobs/1816724, https://boards.greenhouse.io/gusto/jobs/1823749 |
 | Hewlett Packard Enterprise | Platform Engineer | Ft. Collins, Colorado | https://careers.hpe.com/job/Hewlett-Packard-Enterprise-Ft.-Collins-Platform-Engineer-Graduate-Program-Colorado/52471296 |
 | Hudson River Trading | Algo Developer, Software Engineer | New York, Austin, Chicago | http://www.hudson-trading.com/careers/job/?gh_jid=82675 (NY only), http://www.hudson-trading.com/careers/job/?gh_jid=86641 |
-| IBM | Frontend Engineer,Backend Engineer | Tucson, AZ; Costa Mesa, CA; Emeryville, CA; Foster City, CA; San Francisco, CA; San Jose, CA; Denver, CO; Atlanta, GA; Sandy Springs, GA; Chicago, IL; Cambridge, MA; Littleton,  MA; Rochester, MN; Durham, NC; Raleigh, NC; Endicott, NY; Hopewell Junction, NY; North Castle, NY; Manhatten, NY; Poughkeepsie, NY; Yorktown Heights, NY; Dublin, OH; Blue Bell, PA; Pittsburgh, PA; Austin, TX; Dallas, TX; Houston, TX; Irving, TX | https://careers.ibm.com/ShowJob/Id/718044/Entry-Level-Front-End-Developer/?lang=en https://careers.ibm.com/ShowJob/Id/718042/Entry-Level-Back-End-Developer/?lang=en |
+| 等待内推中 - IBM | Frontend Engineer,Backend Engineer | Tucson, AZ; Costa Mesa, CA; Emeryville, CA; Foster City, CA; San Francisco, CA; San Jose, CA; Denver, CO; Atlanta, GA; Sandy Springs, GA; Chicago, IL; Cambridge, MA; Littleton,  MA; Rochester, MN; Durham, NC; Raleigh, NC; Endicott, NY; Hopewell Junction, NY; North Castle, NY; Manhatten, NY; Poughkeepsie, NY; Yorktown Heights, NY; Dublin, OH; Blue Bell, PA; Pittsburgh, PA; Austin, TX; Dallas, TX; Houston, TX; Irving, TX | https://careers.ibm.com/ShowJob/Id/718044/Entry-Level-Front-End-Developer/?lang=en https://careers.ibm.com/ShowJob/Id/718042/Entry-Level-Back-End-Developer/?lang=en |
 | JPMorgan Chase | Software Engineer Program | New York, NY; Chicago, IL; Columbus, OH; Houston, TX; Newark/Wilmington, DE; Plano, TX; San Francisco, CA; Seattle, WA; Tampa, FL| https://careers.jpmorgan.com/us/en/students/programs/software-engineer-fulltime |
 | Lime | Software Engineer | Bay Area, CA, USA | https://jobs.lever.co/limebike/fbea1c67-c6a9-42ba-a0a3-475098487a99 |
 | Lucid | Software Engineer | Salt Lake City, UT, USA | https://www.golucid.co/careers/dd5e02ef-552e-4838-8892-65acb4919b05 |
